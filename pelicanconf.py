@@ -18,13 +18,13 @@ AUTHOR_FEED_RSS = None
 
 
 DEFAULT_PAGINATION = 10
-THEME="brutalist"
+THEME='brutalist'
 ## path to favicon
 FAVICON = 'IMG_8900-modified.png'
 ## path to logo for nav menu (optional)
 LOGO = 'IMG_8900-modified.png'
 ## first name for nav menu if logo isn't provided
-FIRST_NAME = 'Brutalist'
+FIRST_NAME = 'svbhack'
 ## google analytics (fake code commented out)
 # GOOGLE_ANALYTICS = 'UA-0011001-1'
 ## Twitter username for Twitter Card data
